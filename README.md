@@ -1,4 +1,5 @@
-# Canva Clone
+canva landing page
+
 
 Canva Clone is a project that aims to create a fun and educational environment for building design and graphic editing applications. It utilizes a set of educational tools to help users understand and enhance their skills in graphic design in an engaging way.
 ## Table of Contents
